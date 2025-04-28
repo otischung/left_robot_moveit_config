@@ -1,0 +1,10 @@
+# Default initial positions for left_robot's ros2_control fake system
+
+initial_positions:
+  LJ1: 3.14159265359
+  LJ2: 0.0
+  LJ3: 1.57079632679
+  LJ4: 0.0
+  LJ5: 1.57079632679
+  LJ6: 1.57079632679
+  LJ7: 0.0
